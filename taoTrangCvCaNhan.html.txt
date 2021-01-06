@@ -6,7 +6,7 @@
 </head>
 <body>
 <h3>HỌ VÀ TÊN</h3>
-<p>Nguyễn Văn An</p>
+<p>Nguyễn Thanh Tùng</p>
 <h3>ĐỊA CHỈ</h3>
 <p>Số 12 đường Lê Đức Thọ, Nam Từ Liêm, Hà nội</p>
 <h3>SỐ ĐIỆN THOẠI</h3>
@@ -14,6 +14,9 @@
 <h3>EMAIL</h3>
 <p>nguyenvanan@gmail.com</p>
 <h3>ẢNH</h3>
+<a> target="_blank" href="https://vi.wikipedia.org/wiki/S%C6%A1n_T%C3%B9ng_M-TP"</a>
+<h4>Giới thiệu về tôi</h4>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Son_Tung_M-TP_1_%282017%29.png/800px-Son_Tung_M-TP_1_%282017%29.png" alt="Nguyễn Thanh Tùng">
 <p></p>
 <h3>HỌC VẤN</h3>
 <p>Cử nhân Đại học Ngoại Ngữ- DHQGHN- Khoa Tiếng Nhật</p>
