@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HỒ SƠ XIN VIỆC</title>
+</head>
+<body>
+<h3>HỌ VÀ TÊN</h3>
+<p>Nguyễn Văn An</p>
+<h3>ĐỊA CHỈ</h3>
+<p>Số 12 đường Lê Đức Thọ, Nam Từ Liêm, Hà nội</p>
+<h3>SỐ ĐIỆN THOẠI</h3>
+<p>0398273872</p>
+<h3>EMAIL</h3>
+<p>nguyenvanan@gmail.com</p>
+<h3>ẢNH</h3>
+<p></p>
+<h3>HỌC VẤN</h3>
+<p>Cử nhân Đại học Ngoại Ngữ- DHQGHN- Khoa Tiếng Nhật</p>
+<h3>BẰNG CẤP</h3>
+<p>Cử nhân khoa Tiếng Nhật N2
+<br>TOEIC 850
+</p>
+<h3>KĨ NĂNG</h3>
+<p>
+Sử dụng thành thạo tin học văn phòng
+    <br>
+    Có kinh nghiệm làm việc trong các Doanh nghiệp Nhật Bản
+    <br>
+
+</p>
+<h3>KINH NGHIỆM</h3>
+<p>
+    Có 6 kinh nghiệm làm việc trong các Doanh nghiệp Nhật Bản
+<br>
+    3 năm làm việc tại Nhật Bản về lĩnh vực kinh doanh linh kiện đường sắt
+    <br>
+    3 năm làm việc về lĩnh vực Điều phối cho các Đoàn quay phim Nhật Bản, hỗ trợ các giấy tờ, thủ tục, tiếp đoàn khi tới Việt Nam
+
+</p>
+<h3>ĐỊNH HƯỚNG PHÁT TRIỂN BẢN THÂN</h3>
+<h5>Mục tiêu gần trong 6 tháng tới:</h5>
+<p>
+    Hoàn thành khóa học lập trình của CodeGym khóa full-time Java
+</p>
+<h5>Mục tiêu cho năm 2021</h5>
+<p>
+    Trở thành nhân viên lập trình cho 1 doanh nghiệp IT lớn có vốn đầu tư của Nhật Bản
+</p>
+<h5>Mục tiêu cho 5 năm tới</h5>
+<p>
+    Trở thành BRSE tiếng Nhật thành thạo
+</p>
+<h5>Mục tiêu cho 10 năm tới</h5>
+<p>
+    Trở thành BRSE cả tiếng Nhật và tiếng Anh thành thạo
+</p>
+</body>
+</html>
